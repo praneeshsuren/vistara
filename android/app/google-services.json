@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066351604939",
+    "project_id": "vistara-aa965",
+    "storage_bucket": "vistara-aa965.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066351604939:android:24d8535f26356bf443574e",
+        "android_client_info": {
+          "package_name": "com.example.vistara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQs7g0YlW5z9wbHMiUQRWihZxKZ3uvqUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
